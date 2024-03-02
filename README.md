@@ -1,2 +1,8 @@
 # wormhole
 this my new project
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x517ebb6c87736826435878F55c56C9CD9888461f'
+quorum: 1
